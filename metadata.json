@@ -1,0 +1,5 @@
+{
+  "name": "Bingo Image Shuffler",
+  "description": "Upload a bingo image, define a grid (3x3, 4x4, or 5x5), shuffle cells, and manually swap them before downloading the final result.",
+  "requestFramePermissions": []
+}
